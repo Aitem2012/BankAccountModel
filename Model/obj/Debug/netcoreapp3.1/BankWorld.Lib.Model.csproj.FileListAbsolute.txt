@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\TheNewBank\Model\bin\Debug\netcoreapp3.1\BankWorld.Lib.Model.deps.json
+C:\Users\hp\source\repos\TheNewBank\Model\bin\Debug\netcoreapp3.1\BankWorld.Lib.Model.dll
+C:\Users\hp\source\repos\TheNewBank\Model\bin\Debug\netcoreapp3.1\BankWorld.Lib.Model.pdb
+C:\Users\hp\source\repos\TheNewBank\Model\obj\Debug\netcoreapp3.1\BankWorld.Lib.Model.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TheNewBank\Model\obj\Debug\netcoreapp3.1\BankWorld.Lib.Model.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TheNewBank\Model\obj\Debug\netcoreapp3.1\BankWorld.Lib.Model.AssemblyInfo.cs
+C:\Users\hp\source\repos\TheNewBank\Model\obj\Debug\netcoreapp3.1\BankWorld.Lib.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TheNewBank\Model\obj\Debug\netcoreapp3.1\BankWorld.Lib.Model.dll
+C:\Users\hp\source\repos\TheNewBank\Model\obj\Debug\netcoreapp3.1\BankWorld.Lib.Model.pdb

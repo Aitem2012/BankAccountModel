@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\BankWorld.Lib.Data.csproj" />
+    <ProjectReference Include="..\Model\BankWorld.Lib.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BankWorld.Lib.Data">
+      <HintPath>..\BankWorld.Lib.Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

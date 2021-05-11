@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\TheNewBank\Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Data.deps.json
+C:\Users\hp\source\repos\TheNewBank\Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Data.runtimeconfig.json
+C:\Users\hp\source\repos\TheNewBank\Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\TheNewBank\Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Data.dll
+C:\Users\hp\source\repos\TheNewBank\Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Data.pdb
+C:\Users\hp\source\repos\TheNewBank\Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Model.dll
+C:\Users\hp\source\repos\TheNewBank\Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Model.pdb
+C:\Users\hp\source\repos\TheNewBank\Data\obj\Debug\netcoreapp3.1\BankWorld.Lib.Data.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TheNewBank\Data\obj\Debug\netcoreapp3.1\BankWorld.Lib.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TheNewBank\Data\obj\Debug\netcoreapp3.1\BankWorld.Lib.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\TheNewBank\Data\obj\Debug\netcoreapp3.1\BankWorld.Lib.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TheNewBank\Data\obj\Debug\netcoreapp3.1\BankWorld.Lib.Data.csproj.CopyComplete
+C:\Users\hp\source\repos\TheNewBank\Data\obj\Debug\netcoreapp3.1\BankWorld.Lib.Data.dll
+C:\Users\hp\source\repos\TheNewBank\Data\obj\Debug\netcoreapp3.1\BankWorld.Lib.Data.pdb
+C:\Users\hp\source\repos\TheNewBank\Data\obj\Debug\netcoreapp3.1\BankWorld.Lib.Data.genruntimeconfig.cache

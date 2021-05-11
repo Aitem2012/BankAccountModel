@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\BankWorld.Lib.Core.csproj" />
+    <ProjectReference Include="..\Utilities\BankWolrd.Lib.Utilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BankWorld.Lib.Data">
+      <HintPath>..\BankWorld.Lib.Data\bin\Debug\netcoreapp3.1\BankWorld.Lib.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

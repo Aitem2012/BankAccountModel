@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\TheNewBank\Utilities\bin\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.deps.json
+C:\Users\hp\source\repos\TheNewBank\Utilities\bin\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.dll
+C:\Users\hp\source\repos\TheNewBank\Utilities\bin\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.pdb
+C:\Users\hp\source\repos\TheNewBank\Utilities\obj\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TheNewBank\Utilities\obj\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TheNewBank\Utilities\obj\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.AssemblyInfo.cs
+C:\Users\hp\source\repos\TheNewBank\Utilities\obj\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TheNewBank\Utilities\obj\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.dll
+C:\Users\hp\source\repos\TheNewBank\Utilities\obj\Debug\netcoreapp3.1\BankWolrd.Lib.Utilities.pdb

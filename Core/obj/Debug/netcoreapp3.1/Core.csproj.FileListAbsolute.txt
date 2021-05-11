@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\TheNewBank\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TheNewBank\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TheNewBank\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\TheNewBank\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TheNewBank\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\hp\source\repos\TheNewBank\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\hp\source\repos\TheNewBank\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\hp\source\repos\TheNewBank\Core\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\hp\source\repos\TheNewBank\Core\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\hp\source\repos\TheNewBank\Core\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\hp\source\repos\TheNewBank\Core\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\hp\source\repos\TheNewBank\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+C:\Users\hp\source\repos\TheNewBank\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\hp\source\repos\TheNewBank\Core\obj\Debug\netcoreapp3.1\Core.pdb
